@@ -1,0 +1,23 @@
+.uno{
+    border: black 3px solid;
+    background-color: #9999FF;
+}
+.mensaje{
+    background-color:#F3F3F3;
+    font-weight: bold;
+    font-size:20px;
+    border: #F9F928 3px solid;
+    margin: 10px;
+    padding:10px
+    
+}
+.dos{
+    background-color: #CE8845;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.comentario{
+    color: white;
+    border-bottom: #678422 3px solid;
+}
